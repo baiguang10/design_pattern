@@ -1,0 +1,9 @@
+strategypattern\duck\algorithm_family\QuackBehavior.class
+strategypattern\duck\algorithm_family\FlyBehavior.class
+strategypattern\duck\algorithm_family\flyimpl\FlyNoWay.class
+strategypattern\duck\algorithm_family\quckimpl\MuteQuack.class
+strategypattern\duck\algorithm_family\quckimpl\Quack.class
+strategypattern\duck\algorithm_family\flyimpl\FlyWithWings.class
+strategypattern\duck\algorithm_family\quckimpl\Squeak.class
+strategypattern\duck\object\Duck.class
+strategypattern\duck\object\entity\RedheadDuck.class

@@ -1,0 +1,9 @@
+H:\code\leetcode\designpattern\src\main\java\strategypattern\duck\algorithm_family\FlyBehavior.java
+H:\code\leetcode\designpattern\src\main\java\strategypattern\duck\object\Duck.java
+H:\code\leetcode\designpattern\src\main\java\strategypattern\duck\algorithm_family\flyimpl\FlyWithWings.java
+H:\code\leetcode\designpattern\src\main\java\strategypattern\duck\algorithm_family\quckimpl\MuteQuack.java
+H:\code\leetcode\designpattern\src\main\java\strategypattern\duck\algorithm_family\quckimpl\Quack.java
+H:\code\leetcode\designpattern\src\main\java\strategypattern\duck\object\entity\RedheadDuck.java
+H:\code\leetcode\designpattern\src\main\java\strategypattern\duck\algorithm_family\QuackBehavior.java
+H:\code\leetcode\designpattern\src\main\java\strategypattern\duck\algorithm_family\flyimpl\FlyNoWay.java
+H:\code\leetcode\designpattern\src\main\java\strategypattern\duck\algorithm_family\quckimpl\Squeak.java
